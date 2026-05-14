@@ -5,14 +5,7 @@
 WP Intelligence Graph turns a WordPress environment into an investigator-friendly dashboard. It scans `wp-content` paths, maps content relationships, surfaces suspicious files, detects code-quality risks, checks media metadata gaps, and renders results in a Cytoscape.js graph with focused issue isolation.
 
 ## Video Demo
-[[Watch the WP Intelligence Graph demo](https://ik.imagekit.io/nshm9ukmj/wp-intelligence-graph.mp4)](https://github.com/user-attachments/assets/a1a439db-ab7d-4819-8c97-e3fae07783a9)
-
-<video
-  src="https://ik.imagekit.io/nshm9ukmj/wp-intelligence-graph.mp4"
-  width="100%"
-  height="420"
-  controls>
-</video>
+[![WP Intelligence Graph]](https://github.com/user-attachments/assets/a1a439db-ab7d-4819-8c97-e3fae07783a9)
 
 ---
 
