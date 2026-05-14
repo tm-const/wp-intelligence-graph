@@ -7,6 +7,13 @@ WP Intelligence Graph turns a WordPress environment into an investigator-friendl
 ## Video Demo
 [Watch the WP Intelligence Graph demo](https://ik.imagekit.io/nshm9ukmj/wp-intelligence-graph.mp4)
 
+<video
+  src="[https://ik.imagekit.io/nshm9ukmj/wp-intelligence-graph.mov](https://ik.imagekit.io/nshm9ukmj/wp-intelligence-graph.mp4)"
+  width="100%"
+  height="420"
+  controls>
+</video>
+
 ---
 
 ## Table of Contents
